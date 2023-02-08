@@ -1,0 +1,1 @@
+command for current dir
