@@ -1,1 +1,1 @@
-command for current dir
+shell_basics
